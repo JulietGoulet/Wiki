@@ -2,17 +2,17 @@
 description: This page provides a brief overview of Data Collaboration
 ---
 
-# Data Collaboration Overview
+# Data Collaboration overview
 
 {% hint style="info" %}
-**You are currently browsing the Cinchy v5.6 platform documentation.** For documentation pertaining to other versions of the platform, please navigate to the relevant space(s) via the drop down menu in the upper left of the page.
+**You are currently browsing the Cinchy v5.6 platform documentation.** For documentation about other versions of the platform, please navigate to the relevant space(s) via the drop down menu in the upper left of the page.
 {% endhint %}
 
-## What’s the purpose of Dataware and Data Collaboration?
+## What’s the purpose of Data Collaboration?
 
-Dataware is the emergence of a common group of technologies that solve data related problems across many business use cases. One of the most exciting new categories within this group is Data Collaboration.
+Data collaboration is the emergence of a common group of technologies that solve data related problems across many business use cases. One of the most exciting new categories within this group is Data Collaboration.
 
-Data Collaboration solves the costly, time-consuming, and ineffective integration processes born from silo-ing your data in a traditional app-centric environment. Instead of your data serving your applications, data collaboration refocuses and pivots to a model where your data is at the forefront and is being served by your apps _(Image 1)._
+Data Collaboration solves the costly, time-consuming, and ineffective integration processes born from silo-ing your data in a traditional app-centric environment. Instead of your data serving your applications, data collaboration refocuses and pivots to a model where your data is at the forefront and is served by your apps _(Image 1)._
 
 &#x20;
 
@@ -62,7 +62,7 @@ Now, instead of connecting apps to gain access to data through costly point-to-p
 
 ​Simply putting pipes between data silos, and centralizing a few housekeeping tasks, is not data collaboration. What that's actually doing is leading you down a path of managing endless copies. True data collaboration not only connects your data but upgrades it as part of an interconnected**,** autonomous network.&#x20;
 
-**Autonomous data** exists independently of any application. It is self-controlled, self-protected, and self-describing. This creates a number of benefits compared to traditional app-dependent data, including the ability to simplify cross-application usage and reporting. And when **you use autonomous data in an interconnected network,** wherein individual contributors maintain their roles and priorities as they apply their unique skills and leadership autonomy in a problem solving process, you get: **Collaborative Autonomy.**&#x20;
+**Autonomous data** exists independently of any application. It is self-controlled, self-protected, and self-describing. This creates numerous benefits compared to traditional app-dependent data, including the ability to simplify cross-application usage and reporting. And when **you use autonomous data in an interconnected network,** wherein individual contributors maintain their roles and priorities as they apply their unique skills and leadership autonomy in a problem solving process, you get: **Collaborative Autonomy.**&#x20;
 
 **Collaborative Autonomy** is thus the principle underpinning **Collaborative Intelligence, the entire basis of Dataware and Cinchy.**
 
@@ -70,7 +70,7 @@ Individuals are not homogenized, as in consensus-driven processes, nor equalized
 
 ## Universal access controls, automated governance
 
-One of the most significant advantages of dataware is the ease with which data owners can set universal data access controls at the cellular level, and automate data quality (Data Governance) with a “golden record” of data.
+One of the most significant advantages of data collaboration is the ease with which data owners can set universal data access controls at the cellular level, and automate data quality (Data Governance) with a “golden record” of data.
 
 In effect, it is removing the need to maintain access controls within individual apps and centralizing these functions in an incredibly efficient way.
 
